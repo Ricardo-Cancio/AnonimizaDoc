@@ -22,6 +22,10 @@ O software permite aplicar tarjas de proteção, remover conteúdos selecionados
 - PySide6
 - PyInstaller
 
+## Interface do AnonimizaDoc
+
+![AnonimizaDoc 1.2](interface.png)****
+
 ## Licença e autoria
 
 **Desenvolvimento:** Ricardo Cancio  
