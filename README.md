@@ -27,7 +27,7 @@ O software permite aplicar tarjas de proteção, remover conteúdos selecionados
 
 ## Interface do AnonimizaDoc
 
-![Interface do AnonimizaDoc 1.2](interface%20.png)
+![Interface do AnonimizaDoc 1.2](interface.png)
 
 
 ## Licença e autoria
