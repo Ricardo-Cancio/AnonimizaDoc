@@ -22,8 +22,6 @@ O software permite aplicar tarjas de proteção, remover conteúdos selecionados
 - PySide6
 - PyInstaller
 
-## Interface do AnonimizaDoc
-
 
 ## Interface do AnonimizaDoc
 
